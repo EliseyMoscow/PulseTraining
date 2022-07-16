@@ -341,4 +341,24 @@
   .section-benefits__column__logo {
     margin-top: 60px;
   }
+  .section-consultation h2 {
+    font-size: 28px;
+  }
+  .section-consultation__subheader {
+    font-size: 22px;
+  }
+}
+@media (max-width: 320px) {
+  .section-consultation {
+    padding: 100px 0px;
+  }
+  .section-consultation h2 {
+    font-size: 22px;
+    line-height: 50px;
+    text-align: center;
+  }
+  .section-consultation__subheader {
+    text-align: center;
+    font-size: 18px;
+  }
 }/*# sourceMappingURL=main.css.map */
